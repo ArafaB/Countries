@@ -103,6 +103,8 @@ http://api.new.livestream.com:80/accounts/5381476/events/8947634/live.m3u8
 https://5c483b9d1019c.streamlock.net/8238/8238/playlist-480p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BOP9hTb.png" group-title="BRAZIL",TV Liberdade
 http://01.paineldevideo.com/rtguarany/rtguarany/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Logo_loading.png" group-title="BRAZIL",Loading
+https://centurylink.br.cdn.booyah.live/hls/1000029/34850987_1080.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VeELX7K.png" group-title="BRAZIL",TV Manchete
 https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2Pg0baJ.png" group-title="BRAZIL",TV MAX
